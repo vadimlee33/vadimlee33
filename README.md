@@ -3,10 +3,10 @@
 
 # 👋 About Me
   
-- 👀 I’m interested in AI, Machine Learning and Mobile Development.
-- 🌱 I’m currently working as a Flutter Mobile Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interested in Data Science and Mobile Development
+- 💻 Currently working as a Flutter Mobile Developer
+- 📝 CS Student
+- ♟️ Chess player
 
 # 🗂️ My Projects
 
