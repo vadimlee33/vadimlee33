@@ -7,5 +7,5 @@
 
 # 👋 Contacts
 
-- e-mail: vadimthegreat3@gmail.com
-- telegram: @vadimthegreat3
+- E-mail: vadimthegreat3@gmail.com
+- Telegram: @vadimthegreat3
