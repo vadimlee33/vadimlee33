@@ -5,7 +5,6 @@
 - 📝 CS Student
 - ♟️ Chess player
 
-# 👋 Contacts
+# ☕ Get in touch
 
 - E-mail: vadimthegreat3@gmail.com
-- Telegram: @vadimthegreat3
