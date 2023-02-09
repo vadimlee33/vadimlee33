@@ -5,12 +5,12 @@
 - CS Student
 - Chess player
 
-# Skills
+# 👨🏽‍💻 Skills
 ## Mobile Development:
 - Dart
 - Flutter
 - Kotlin
-## Machine Learning:
+## Data Science:
 - Python
 - Scikit-learn
 - Feature-engine
